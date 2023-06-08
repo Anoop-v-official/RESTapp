@@ -32,11 +32,14 @@ The task involves the following files:
 **Step 2: Build and Start Docker Containers**
 
 1. Open a terminal and navigate to the project directory.
+
 2. Build the Docker image:
    $ docker-compose build
+
 3. Start the Docker containers:
    $ docker-compose up
    This command will start the Flask application, Redis, and PostgreSQL containers.
+   
 4. Monitor the container logs to ensure they are running successfully:
    $ docker-compose logs -f
    The logs will be displayed in the terminal, allowing you to monitor any output or errors from the containers.
