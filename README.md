@@ -80,3 +80,7 @@ If you encounter any issues during the setup or execution of the task, refer to 
 - When entering the `ENV DATABASE_URI` for PostgreSQL, the database failed. It was fixed by changing it to Sqlite.
 - Faced an issue while adding the host as `127.0.0.1` as mentioned in the `app.py`. It was not connecting, then switched to `0.0.0.0`
 
+## Resource Referred
+- StackOverflow
+- ChatGpt
+- Google/Youtube
